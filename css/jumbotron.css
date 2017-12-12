@@ -1,0 +1,245 @@
+input.form-control {
+    margin-bottom: 5px;
+}
+
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+
+.btn-huge{
+    margin-top: 80px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: -16px;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.jumbo-padding{
+    padding-top: 200px;
+}
+
+.button-padding{
+    position: relative;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+
+.modal-padding{
+    padding-top: 200px;
+}
+
+/*.navbar {*/
+    /*margin-bottom: 0;*/
+    /*background-color: #3f3f3f;*/
+    /*z-index: 9999;*/
+    /*border: 0;*/
+    /*font-size: 12px !important;*/
+    /*line-height: 1.42857143 !important;*/
+    /*letter-spacing: 4px;*/
+    /*border-radius: 0;*/
+    /*font-family: Montserrat, sans-serif;*/
+/*}*/
+/*.navbar li a, .navbar{*/
+    /*color: #fff !important;*/
+/*}*/
+
+/*.navbar-brand {*/
+    /*color: #fed136 !important;;*/
+    /*font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;*/
+/*}*/
+
+/*.navbar-nav li a:hover, .navbar-nav li.active a {*/
+    /*color: white !important;*/
+    /*background-color: #ea6c59 !important;*/
+/*}*/
+/*.navbar-default .navbar-toggle {*/
+    /*border-color: transparent;*/
+    /*color: #fff !important;*/
+/*}*/
+
+.jumbotron {
+    background-color: #671e13;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+}
+
+.jumbotron2 {
+    color: #671e13;
+    padding: 60px 20px;
+    font-family: Montserrat, sans-serif;
+    font-size: larger;
+}
+
+.panel {
+    border: 1px solid #671e13;
+    border-radius:0 !important;
+    transition: box-shadow 0.5s;
+}
+.panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+.panel-footer .btn:hover {
+    border: 1px solid #671e13;
+    background-color: #fff !important;
+    color: #671e13;
+}
+.panel-heading {
+    color: #fff !important;
+    background-color: #671e13 !important;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.panel-footer {
+    background-color: white !important;
+}
+.panel-footer h3 {
+    font-size: 32px;
+}
+.panel-footer h4 {
+    color: #aaa;
+    font-size: 14px;
+}
+.panel-footer .btn {
+    margin: 15px 0;
+    background-color: #ff8f66;
+    color: #fff;
+}
+
+.jga-toolbar{
+    position: absolute;
+    right: 15px;
+    background-color: white;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    border-bottom-left-radius: 5px;
+    opacity: 0.7;
+    z-index: 1;
+}
+
+
+
+.back-button{
+    color: white ;
+    font-size: 15px;
+
+}
+
+.glyphicon-chevron-left{
+    color: white;
+    font-size: 15px;
+}
+
+
+.modal{
+    margin-top: 20px;
+}
+
+.modal-footer{
+    z-index: 2;
+    max-height: 100px;
+}
+
+.modal-header, .close {
+    background-color: #333;
+    color: #fff !important;
+    text-align: center;
+    font-size: 30px;
+    z-index: 2;
+}
+
+.modal-body {
+    max-height: 400px;
+    overflow-y: scroll;
+    padding: 40px 50px;
+    z-index: 2;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.brand{
+    text-align: center;
+    font-size: 150px;
+    color: #fed136;
+    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+
+.modal-header-login{
+    max-height: 400px;
+    background-color: #333;
+    color: #fff !important;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px 10px;
+    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+    z-index: 2;
+}
+
+a:hover{text-decoration: none;}
+
+
+
+.nav-tabs li a {
+    color: #777;
+}
+.rollovericons a{
+    margin: 10px;
+}
+
+.marginbutton{
+    margin: 10px;
+}
+
+.list-group-item {
+    border-width: 0px 0;
+}
+
+form{
+    padding-bottom: 5px;
+}
+
+
+#leftPanel{
+    background-color:#0079ac;
+    color:#fff;
+    text-align: center;
+    min-height:315px;
+}
+
+#rightPanel{
+    min-height:315px;
+}
+
+.colorgraph {
+    height: 5px;
+    border-top: 0;
+    background: #c4e17f;
+    border-radius: 5px;
+}
+
+
+
+.btn{
+    white-space:normal !important;
+    word-wrap:break-word;
+}
+
+
+
